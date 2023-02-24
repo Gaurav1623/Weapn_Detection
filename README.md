@@ -1,2 +1,2 @@
-# Weapn_Detection
- Detect handguns in images using ResNet
+# Gun_Detection
+ Gun Detection using ResNet50
